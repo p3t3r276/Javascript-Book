@@ -1,7 +1,7 @@
 # Javascrript-Book
-A list of books recommended to learc Javascript
+A list of books recommended to learn Javascript
 
 
-### Stater book
+### I. Stater book
 
 1. Bộ sách You don't know Javascript
